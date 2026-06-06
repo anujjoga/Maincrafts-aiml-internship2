@@ -55,7 +55,7 @@ Build an enhanced ML pipeline that goes beyond basic model training by applying 
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/anujjoga/Maincrafts-aiml-internship2
 cd YOUR_REPO
 pip install -r requirements.txt
 jupyter notebook AI_ML_Task2_Model_Comparison.ipynb
